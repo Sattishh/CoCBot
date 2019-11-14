@@ -1,0 +1,14 @@
+{
+  "name": "coc_bot",
+  "version": "1.0.0",
+  "description": "Bot that finds user (who joined the server) player clan history, they need to write their player tag. Game - Clash of Clans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sattish Shewkani",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
